@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/helios/CHEOLYEELAND/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "철이랜드",
+    "description": "CHEOLYEELAND Running Minecraft 1.20.1 (Fabric v0.15.11)",
+    "icon": "https://raw.githubusercontent.com/CheolYee/CHEOLYEELAND-distro/main/%EB%9F%B0%EC%B2%98%EC%9D%B4%EB%AF%B8%EC%A7%80%201080x1080.png",
+    "address": "len.cheolyee-server.kro.kr",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.15.11"
+  },
+  "untrackedFiles": []
+}
