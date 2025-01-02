@@ -12,7 +12,7 @@
       "name": "철이랜드",
       "description": "CHEOLYEELAND Running Minecraft 1.20.1 (Fabric v0.15.11)",
       "icon": "https://raw.githubusercontent.com/CheolYee/CHEOLYEELAND-distro/main/%EB%9F%B0%EC%B2%98%EC%9D%B4%EB%AF%B8%EC%A7%80%201080x1080.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "len.cheolyee-server.kro.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -235,6 +235,26 @@
             "url": "https://raw.githubusercontent.com/CheolYee/CHEOLYEELAND-distro/main/servers/CHEOLYEELAND-1.20.1/files/resourcepacks/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
             "MD5": "d07735dba03104b9cef3bc9ee871e5c7",
             "path": "resourcepacks/리소스팩.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 4936,
+            "url": "https://raw.githubusercontent.com/CheolYee/CHEOLYEELAND-distro/main/servers/CHEOLYEELAND-1.20.1/files/servers.dat",
+            "path": "servers.dat"
+          }
+        },
+        {
+          "id": "servers.dat_old",
+          "name": "servers.dat_old",
+          "type": "File",
+          "artifact": {
+            "size": 159,
+            "url": "https://raw.githubusercontent.com/CheolYee/CHEOLYEELAND-distro/main/servers/CHEOLYEELAND-1.20.1/files/servers.dat_old",
+            "path": "servers.dat_old"
           }
         },
         {
